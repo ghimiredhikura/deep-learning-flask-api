@@ -14,10 +14,8 @@ flask run
 
 Now go to `http://127.0.0.1:5000/` via chrome browser and upload image. 
 
-<p align="left"><img src="assets/guide.png" width="1246"\></p>
+<p align="left"><img src="assets/guide.png" width="640"\></p>
 
-## Result
+## Results
 
-| GT: goldfish | GT: power drill | GT: tench |
-| :-------: |:-------:|:----------:|
-| <p align="center"><img src="assets/result1.png" width="320"\></p> |<p align="center"><img src="assets/result2.png" width="320"\></p> |<p align="center"><img src="assets/result3.png" width="320"\></p>|
+<p align="left"><img src="assets/results.png" width="1280"\></p>
