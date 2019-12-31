@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Label Image Web App</title>
+    <head>
+    <body>
+        <h2>Prediction Result</h2>
+        <P><img src="{{ url_for('static', filename=image)}}" width="320" height="320"></P>
+        <p>{{ output_top1 }}</p>
+        <p>{{ output_top2 }}</p>
+        <p>{{ output_top3 }}</p>        
+    <body>
+
+<html>
